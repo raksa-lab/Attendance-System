@@ -20,6 +20,18 @@ export default function Welcome() {
         >
           Get Started
         </button>
+        {/* button for organizer dashboard
+        <button>
+           onClick=={()=> navigate("/organizer/overview")}
+           className="px-6 py-3 bg-[#110E5B] text-white rounded-lg hover:bg-blue-900 transition duration-300"
+        
+           go to organizer dashboar
+
+
+        </button> */}
+       
+           
+
       </div>
     </>
   );
